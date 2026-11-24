@@ -1,0 +1,12 @@
+{
+  "name": "fikakortet-demo",
+  "version": "0.1.0",
+  "description": "Fikakortet – demoprojekt i ISGB04 Programutveckling HT26 (F7 Workshop)",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node src/ui/main.js",
+    "test": "node --test"
+  }
+}
